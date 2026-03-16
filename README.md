@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Tai 👋
 
-<!--
-**tai-magele/tai-magele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI automation tools that help small and medium businesses 
+eliminate repetitive manual work — email triage, invoice processing, 
+lead routing, and reporting pipelines.
 
-Here are some ideas to get you started:
+**Tech stack:** Python · Claude API · n8n · Google Workspace · GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build:**
+- 🔀 Smart lead routers that score and triage inbound emails automatically
+- 📄 Invoice data extractors that turn PDFs into structured spreadsheet rows
+- 📊 Automated reporting dashboards that pull live data and generate HTML reports
+- ⚡ End-to-end workflow automation connecting Gmail, Slack, and Google Sheets
+
+All builds are production-grade — error handling, monitoring, and client 
+handoff documentation included as standard.
+
+📍 Sydney, Australia &nbsp;|&nbsp; 🌐 
